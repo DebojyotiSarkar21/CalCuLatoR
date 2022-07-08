@@ -1,2 +1,2 @@
 # CalCuLatoR
- Performs the basics  :   "+",    "-",     "*",     "/",    "^",
+ Performs the basics  :   "+",    "-",     "*",     "/"    &   "^"
