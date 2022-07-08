@@ -1,0 +1,2 @@
+# CalCuLatoR
+ Performs the basics  :   "+",    "-",     "*",     "/",    "^",
